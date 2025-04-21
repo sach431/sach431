@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sach431
+- 👋 Hi, I’m Sachin Mishra
 - 👀 I’m interested in Data Analytics
 - 🌱 I’m currently learning DSA
 - 💞️ I’m looking to collaborate on ...
